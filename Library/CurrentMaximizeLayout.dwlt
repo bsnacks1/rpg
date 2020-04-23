@@ -20,10 +20,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 857, y: 498}
-  m_MaxSize: {x: 22012, y: 14048}
+  m_MinSize: {x: 853, y: 474}
+  m_MaxSize: {x: 22008, y: 14024}
   vertical: 1
-  controlID: 47029
+  controlID: 382
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -127,10 +127,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 947
-  m_MinSize: {x: 857, y: 498}
-  m_MaxSize: {x: 22012, y: 14048}
+  m_MinSize: {x: 853, y: 474}
+  m_MaxSize: {x: 22008, y: 14024}
   vertical: 0
-  controlID: 47030
+  controlID: 383
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 102, y: 248}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 47031
+  controlID: 262
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -510,7 +510,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -50034
+  m_LastSelectedObjectID: -2096
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -589,10 +589,10 @@ MonoBehaviour:
     y: 0
     width: 234
     height: 947
-  m_MinSize: {x: 234, y: 498}
-  m_MaxSize: {x: 10004, y: 14048}
+  m_MinSize: {x: 230, y: 474}
+  m_MaxSize: {x: 10000, y: 14024}
   vertical: 1
-  controlID: 46902
+  controlID: 340
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -650,7 +650,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: cc57ffff2c58ffff4689ffff068efffffcc3ffff1c50000030500000
+      m_ExpandedIDs: defbffffd41d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -693,8 +693,8 @@ MonoBehaviour:
     y: 426
     width: 234
     height: 521
-  m_MinSize: {x: 234, y: 274}
-  m_MaxSize: {x: 10004, y: 10024}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -738,20 +738,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Artwork
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Artwork
+  - Assets/Prefabs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\hub\Desktop\rpg
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ba4e0000
-    m_LastClickedID: 20154
-    m_ExpandedIDs: 00000000ae4d0000564f0000704f0000
+    m_SelectedIDs: 9c1c0000
+    m_LastClickedID: 7324
+    m_ExpandedIDs: 0000000082090000621b0000e21b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -779,7 +779,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ae4d0000564f0000704f0000
+    m_ExpandedIDs: 0000000082090000621b0000e21b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -804,9 +804,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 8e3cffff
-    m_LastClickedInstanceID: -50034
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: d0f7ffff
+    m_LastClickedInstanceID: -2096
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: be2d00009e2c0000e600ffff68c700009e2d000044370000602e000088060000de340000363a00005e3a0000023e0000603e0000b63a0000bc3a00003c320000d23d0000d43d0000e03d00001e3a0000a23a0000aa3a0000685800006c3c0000ec330000d4430000f8330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

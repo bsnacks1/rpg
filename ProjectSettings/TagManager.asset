@@ -38,9 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
+  - name: Ground
+    uniqueID: 1440861953
+    locked: 0
+  - name: Housing Etc
+    uniqueID: 2980961193
     locked: 0
   - name: Player
     uniqueID: 2943427737
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0

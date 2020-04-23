@@ -50,3 +50,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Dock
+    uniqueID: 1091627539
+    locked: 0

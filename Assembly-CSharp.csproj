@@ -56,9 +56,11 @@
      <Compile Include="Assets\Scripts\Core\AutoSpriteSorter.cs" />
      <Compile Include="Assets\Scripts\Core\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Core\InteractionObject.cs" />
-     <Compile Include="Assets\Scripts\Core\PlayerInteract.cs" />
-     <Compile Include="Assets\Scripts\Core\PlayerMovement.cs" />
-     <Compile Include="Assets\Scripts\Core\SceneTransition.cs" />
+     <Compile Include="Assets\Scripts\Core\Player\ContextClue.cs" />
+     <Compile Include="Assets\Scripts\Core\Player\PlayerInteract.cs" />
+     <Compile Include="Assets\Scripts\Core\Player\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Core\Player\Signal.cs" />
+     <Compile Include="Assets\Scripts\Core\Player\SignalListener.cs" />
      <Compile Include="Assets\Scripts\Core\SpriteDepth.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/hub/Desktop/GitHub/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
